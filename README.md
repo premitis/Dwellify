@@ -12,4 +12,4 @@
 
 
 ###### graph of error vs lambda in Normal equation
-![output](https://github.com/premitis/Dwellify/assets/112963150/676737de-deb1-4b28-869e-4a007a964ed1)
+![output1](https://github.com/premitis/Dwellify/assets/112963150/01fd6712-3434-4c09-823c-8a3391d2b7fe)
