@@ -7,12 +7,9 @@
 3. run all cells
 
 
-
-
-
 ###### graph of error vs lambda in gradient descent
-![g](https://raw.githubusercontent.com/SouravG/Housing-price-prediction-using-Regularised-linear-regression/master/download%20(1).png)
+![output](https://github.com/premitis/Dwellify/assets/112963150/816ca9f1-9c77-457a-8e90-03036fbb7cab)
 
 
 ###### graph of error vs lambda in Normal equation
-![g](https://raw.githubusercontent.com/SouravG/Housing-price-prediction-using-Regularised-linear-regression/master/download.png)
+![output](https://github.com/premitis/Dwellify/assets/112963150/676737de-deb1-4b28-869e-4a007a964ed1)
